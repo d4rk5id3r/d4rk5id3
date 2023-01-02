@@ -1,1 +1,11 @@
-theme: minima
+title: root💀d4rk5id3-sec:~#
+#description: PWNallthings!!!
+show_downloads: false
+show_repo: false
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
